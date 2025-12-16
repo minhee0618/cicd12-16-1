@@ -9,4 +9,15 @@ public class HomeController {
         public String hicicd() {
             return "hicicd 1216";
         }
+
+
+    @GetMapping("/hicicd2")
+    public String hicicd2() {
+        return "NEW!!!!!!!! hicicd2 1216";
+    }
+
+    @GetMapping("/hicicd3")
+    public String hicicd3() {
+        return "NEW!!!!!!!! hicicd3 1216 적용";
+    }
 }
