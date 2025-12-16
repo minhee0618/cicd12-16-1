@@ -18,6 +18,6 @@ public class HomeController {
 
     @GetMapping("/hicicd3")
     public String hicicd3() {
-        return "NEW!!!!!!!! hicicd3 1216 적용";
+        return "NEW!!!!!!!! hicicd3 1216 kjkj 적용";
     }
 }
