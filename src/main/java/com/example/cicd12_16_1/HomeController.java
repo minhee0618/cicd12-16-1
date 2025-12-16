@@ -13,7 +13,7 @@ public class HomeController {
 
     @GetMapping("/hicicd2")
     public String hicicd2() {
-        return "NEW!!!!!!!! hicicd2 1216";
+        return "NEW!!!!!!!! hicicd2 1216ㅏㅏㅏㅏㅏㅏ";
     }
 
     @GetMapping("/hicicd3")
